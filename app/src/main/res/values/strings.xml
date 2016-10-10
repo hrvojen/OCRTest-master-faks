@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCRTest-faksTesting</string>
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+    <string name="title_activity_ocr">OCRActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_recycler_view_example">RecyclerViewExample</string>
+</resources>
